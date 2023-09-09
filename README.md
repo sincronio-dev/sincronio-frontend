@@ -1,0 +1,1 @@
+# sincronio-frontend
